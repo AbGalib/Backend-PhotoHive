@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'recipee',
+  title: 'PhotoHive',
 
   projectId: '1x3h5mv8',
   dataset: 'production',
